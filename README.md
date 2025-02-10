@@ -1,6 +1,4 @@
-<h1 id="nik4furi"> <img src="https://user-images.githubusercontent.com/91304976/205597094-de296d52-4b84-4d81-a2c9-767bf95d985a.png" alt="nik4furi" /> </h1>
 
-<h3 align="center">Hi 👋, I'm Nikhil Gurjar. I am pursuing Computer Science Engineering from ECA and am a technology enthusiast.</h1>
 <h5 align="center">A passionate frontend and backend developer from India, I wish to use my technical acumen to contribute to a team and create a positive impact on society</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nik4furi&label=Profile%20views&color=0e75b6&style=flat" alt="nik4furi" /> </p>
